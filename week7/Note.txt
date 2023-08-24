@@ -1,0 +1,3 @@
+Shortcut for comments
+Comment = ctrl+K=C
+Uncomment = ctrl+k+u
